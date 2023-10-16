@@ -7,6 +7,14 @@
 }
 
 
+.mainhead {
+    background-color: #1C1C19;
+    color: #c8c5c3;
+    width: 94%;
+    margin-top: 8vh;
+    margin-left: 2.5%;
+}
+
 .mainhead h1 {
     display: flex;
     flex-wrap: wrap;
